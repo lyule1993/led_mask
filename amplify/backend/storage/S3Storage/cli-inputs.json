@@ -1,0 +1,14 @@
+{
+  "resourceName": "S3Storage",
+  "policyUUID": "01afbdff",
+  "bucketName": "newkeyselfie",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
