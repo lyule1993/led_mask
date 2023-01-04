@@ -1,6 +1,13 @@
-# awesome_layer_mask
 
-A new Flutter project.
+
+App for control NewKey LED Mark by Bluetooth
+
+With this app, you can:
+* Choose your setting to either energize your skin for softer and fresher looking skin or revitalize your skin to visibly enhance your natural complexion and reveal a youthful glow.
+* Daily care with 4 different facial areas to deliver light to the specific areas of concern.
+* View and track your completed sessions.
+* Monitor your progress to keep yourself motivated.
+* Get recommendations for skincare tips & products.
 
 ## Getting Started
 
